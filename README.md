@@ -1,6 +1,6 @@
 ## Velas-Japonesas
 1. [Que es una vela japonesa](#Que es una vela japonesa)
-2. [Technologies](#technologies)
+2. [como se usan](#como se usan)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
